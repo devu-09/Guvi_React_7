@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Guvi_React_7/static/js/main.788fa65d.chunk.js",
+    "main.js.map": "/Guvi_React_7/static/js/main.788fa65d.chunk.js.map",
+    "runtime-main.js": "/Guvi_React_7/static/js/runtime-main.27f97212.js",
+    "runtime-main.js.map": "/Guvi_React_7/static/js/runtime-main.27f97212.js.map",
+    "static/js/2.4ae46b68.chunk.js": "/Guvi_React_7/static/js/2.4ae46b68.chunk.js",
+    "static/js/2.4ae46b68.chunk.js.map": "/Guvi_React_7/static/js/2.4ae46b68.chunk.js.map",
+    "index.html": "/Guvi_React_7/index.html",
+    "static/js/2.4ae46b68.chunk.js.LICENSE.txt": "/Guvi_React_7/static/js/2.4ae46b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27f97212.js",
+    "static/js/2.4ae46b68.chunk.js",
+    "static/js/main.788fa65d.chunk.js"
+  ]
+}
